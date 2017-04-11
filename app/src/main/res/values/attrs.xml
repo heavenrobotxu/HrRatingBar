@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HrRatingBar">
+        <!--星星总数-->
+        <attr name="starTotalNum" format="integer"/>
+        <!--已选择星星数-->
+        <attr name="starSelectedNum" format="float" />
+        <!--默认星星图标-->
+        <attr name="starDefaultDrawable" format="reference" />
+        <!--半星图标-->
+        <attr name="starHalfDrawable" format="reference" />
+        <!--被选中星星图标-->
+        <attr name="starSelectedDrawable" format="reference" />
+        <!--星星之间间隔-->
+        <attr name="starMargin" format="dimension"/>
+        <!--是否仅做展示不响应点击事件-->
+        <attr name="isIndicator" format="boolean" />
+        <!--是否显示半颗星-->
+        <attr name="isShowHalf" format="boolean" />
+        <!--单个星星高度-->
+        <attr name="starHeight" format="dimension" />
+        <!--单个星星宽度-->
+        <attr name="starWidth" format="dimension" />
+    </declare-styleable>
+</resources>
