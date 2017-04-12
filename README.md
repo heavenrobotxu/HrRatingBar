@@ -4,9 +4,9 @@
 # 简介
 * 项目中总会使用到ratingbar这个控件，可是系统自带的使用起来真是很不方便，设置星星图片还要单独去创建资源文件，所以这里自己来实现一个，简单易用，仅xml文件就可以一次性搞定了。
 
-# **Usage**
-## **Installation**
-**Using Gradle**
+# **使用**
+## **依赖**
+**Gradle**
 
 ```gradle
 compile 'com.xztot:xzratingbar:1.0.0'
