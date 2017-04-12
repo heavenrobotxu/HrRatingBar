@@ -8,6 +8,9 @@
 ## **Installation**
 **Using Gradle**
 
+```gradle
+compile 'com.hrobot:hrratingbar:1.0.0'
+```
 
 
 
