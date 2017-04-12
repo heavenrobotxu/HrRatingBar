@@ -9,7 +9,7 @@
 **Using Gradle**
 
 ```gradle
-compile 'com.hrobot:hrratingbar:1.0.0'
+compile 'com.xztot:xzratingbar:1.0.0'
 ```
 
 
