@@ -16,7 +16,7 @@ compile 'com.xztot:xzratingbar:1.0.0'
 
 现在你可以在XMl文件中直接使用了，就像这样
 ```xml
-<com.hr.xz.hrratingbar.view.HrRatingBar
+<com.hr.xz.hratingbar.HrRatingBar
         android:id="@+id/my_rating_bar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
