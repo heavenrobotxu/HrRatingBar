@@ -9,7 +9,7 @@
 **Gradle**
 
 ```gradle
-compile 'com.xztot:xzratingbar:1.0.0'
+compile 'com.xztot:xzratingbar:1.0.1'
 ```
 
 
