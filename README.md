@@ -73,5 +73,7 @@ mRb = (HrRatingBar) findViewById(R.id.my_rating_bar);
 *starMargin*属性在设置 *layout_width="match_parent"* 或者指定长度时会失效，当宽度为指定宽度时可以通过改变宽度的大小来间接的调整星星的间距。当宽度为自适应时 *starMargin* 有效，此时可以结合 *starWidth* 和 *starMargin* 来控制整个控件的宽度
 
 **ChangeLog**
+
 *1.0.1*
+
 去掉Library中的Manifest，防止发生合并冲突
